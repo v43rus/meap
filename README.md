@@ -55,10 +55,12 @@ This repository is structured as an enterprise-like monorepo with clear separati
 
 ## 📁 Project Structure
 
+```text
 backend/        # ASP.NET Core Web API
 frontend/       # React + TypeScript application
 infra/          # Docker, Nginx, Prometheus, Grafana, scripts
 docs/           # Architecture, roadmap, diagrams
+```
 
 ---
 
